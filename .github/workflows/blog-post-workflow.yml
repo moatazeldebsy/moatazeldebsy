@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '* * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 
 jobs:
@@ -14,4 +14,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/moataznabil,https://blog.bitrise.io/author/moataz-nabil,https://moataznabil.blog/feed/,https://medium.com/feed/@@moatazeldebsy,https://stackoverflow.com/feeds/2021123/moataz-nabil"
+          feed_list: "https://dev.to/feed/moataznabil,https://moataznabil.blog/feed/,https://medium.com/feed/@@moatazeldebsy,https://rss.app/feeds/9gK6qA3keilhTtm5.xml"
