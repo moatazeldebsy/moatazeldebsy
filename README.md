@@ -22,6 +22,11 @@ Where I publish my content ✍🏻
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2021, Year in Review](https://moataznabil.blog/2021/12/19/2021-year-in-review/)
+- [Hacktoberfest 2021 at Bitrise: Join us and win awesome swag!](https://dev.to/moataznabil/hacktoberfest-2021-at-bitrise-join-us-and-win-awesome-swag-5ll)
+- [2020 – Year in Review](https://moataznabil.blog/2020/12/24/2020-year-in-review/)
+- [What should every newcomer know about Bitrise?](https://dev.to/moataznabil/what-should-every-newcomer-know-about-bitrise-4c42)
+- [Getting started with AWS Device Farm and Selenium WebDriver](https://dev.to/aws-builders/getting-started-with-aws-device-farm-and-selenium-webdriver-2nmb)
 <!-- BLOG-POST-LIST:END -->
 
 
