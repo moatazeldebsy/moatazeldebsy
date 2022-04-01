@@ -10,7 +10,7 @@ I am Moataz Nabil, a [Developer Advocate](https://blog.bitrise.io/post/a-day-in-
 I have over 13 years of experience in software development, test automation, developer productivity, software testing, and service delivery. I am passionate about creating technological solutions that close the loop between software development and service delivery. 
 
 Where I publish my content ✍🏻 
-- [Youtube Channel](https://www.youtube.com/c/MoatazNabil01) with Arabic content about testing and AWS
+- [Youtube Channel](https://www.youtube.com/c/MoatazNabil01) with Arabic videos about test automation and AWS
 - [Personal Blog](https://moataznabil.blog/) Where I publish series of videos, talks and articles.
 - [Bitrise Blog](https://blog.bitrise.io/author/moataz-nabil) The Offical Bitrise blog
 - [Test Automation University](https://testautomationu.applitools.com/) - My free online courses
