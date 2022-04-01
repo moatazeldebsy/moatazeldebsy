@@ -1,6 +1,5 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=moatazeldebsy.moatazeldebsy)
 [![Github](https://img.shields.io/github/followers/moatazeldebsy?label=Follow&style=social)](https://github.com/moatazeldebsy)
 
 <p align='center'>
