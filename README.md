@@ -1,4 +1,9 @@
-# Hi there! 👋🏻
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+ 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=moatazeldebsy.moatazeldebsy)
+[![Github](https://img.shields.io/github/followers/moatazeldebsy?label=Follow&style=social)](https://github.com/moatazeldebsy)
 
 I am Moataz Nabil, a [Developer Advocate](https://blog.bitrise.io/post/a-day-in-the-life-of-a-developer-advocate-at-bitrise) 🥑 at [Bitrise](http://www.bitrise.io), helping mobile engineers to deliver fast, reliable, and secure mobile apps and helping companies to build their own developer productivity teams. Bitrise Expert, [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/), and Instructor on [TestAutomationU](https://testautomationu.applitools.com/) and [Udemy](https://www.udemy.com/course/selenium-webdriver-from-foundation-to-framework-in-arabic/?referralCode=070F61E78CBA6A4AD2D3).
 
