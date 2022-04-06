@@ -27,15 +27,15 @@ Where I publish my content ✍🏻
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [2021, Year in Review](https://moataznabil.blog/2021/12/19/2021-year-in-review/)
+- [Hacktoberfest 2021 at Bitrise: Join us and win awesome swag!](https://dev.to/moataznabil/hacktoberfest-2021-at-bitrise-join-us-and-win-awesome-swag-5ll)
 - [2020 – Year in Review](https://moataznabil.blog/2020/12/24/2020-year-in-review/)
+- [What should every newcomer know about Bitrise?](https://dev.to/moataznabil/what-should-every-newcomer-know-about-bitrise-4c42)
+- [Getting started with AWS Device Farm and Selenium WebDriver](https://dev.to/aws-builders/getting-started-with-aws-device-farm-and-selenium-webdriver-2nmb)
+- [Why Software Test Engineers should know about Cloud Computing?](https://dev.to/aws-builders/why-software-test-engineers-should-know-about-cloud-computing-1d0n)
 - [📱NEW COURSE ALERT📱](https://moataznabil.blog/2020/09/28/%f0%9f%93%b1new-course-alert%f0%9f%93%b1/)
 - [I will give a talk at AWS Community MENA Day](https://moataznabil.blog/2020/09/13/i-will-give-a-talk-at-aws-community-mena-day/)
 - [I will give a talk at Techila Con Online](https://moataznabil.blog/2020/06/04/i-will-give-a-talk-at-techila-con-online/)
 - [I will be on stage at SauceConf 2020](https://moataznabil.blog/2020/01/13/i-will-be-on-stage-at-sauceconf-2020/)
-- [2019 – Year in Review](https://moataznabil.blog/2019/12/29/2019-year-in-review/)
-- [My New Arabic Course in Test Automation has been published on AlMentor Platform](https://moataznabil.blog/2019/12/18/my-new-arabic-course-in-test-automation-has-been-published-on-almentor-platform/)
-- [l will be on stage at Swiss Testing Day 2020](https://moataznabil.blog/2019/12/17/ill-be-on-stage-at-swiss-testing-day-2020/)
-- [GDG DevFest Berlin – Continuous Testing and Mobile DevOps](https://moataznabil.blog/2019/11/13/gdg-devfest-berlin-continuous-testing-and-mobile-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 
