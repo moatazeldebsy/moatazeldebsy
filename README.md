@@ -27,6 +27,7 @@ Where I publish my content ✍🏻
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Alexa for CI/CD: Introduction to serverless with AWS Lambda and Bitrise API - Part 1](https://dev.to/aws-builders/alexa-for-cicd-introduction-to-serverless-with-aws-lambda-and-bitrise-api-part-1-11ol)
 - [2021, Year in Review](https://moataznabil.blog/2021/12/19/2021-year-in-review/)
 - [Hacktoberfest 2021 at Bitrise: Join us and win awesome swag!](https://dev.to/moataznabil/hacktoberfest-2021-at-bitrise-join-us-and-win-awesome-swag-5ll)
 - [2020 – Year in Review](https://moataznabil.blog/2020/12/24/2020-year-in-review/)
@@ -36,7 +37,6 @@ Where I publish my content ✍🏻
 - [📱NEW COURSE ALERT📱](https://moataznabil.blog/2020/09/28/%f0%9f%93%b1new-course-alert%f0%9f%93%b1/)
 - [I will give a talk at AWS Community MENA Day](https://moataznabil.blog/2020/09/13/i-will-give-a-talk-at-aws-community-mena-day/)
 - [I will give a talk at Techila Con Online](https://moataznabil.blog/2020/06/04/i-will-give-a-talk-at-techila-con-online/)
-- [I will be on stage at SauceConf 2020](https://moataznabil.blog/2020/01/13/i-will-be-on-stage-at-sauceconf-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 
