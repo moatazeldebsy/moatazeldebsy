@@ -27,6 +27,7 @@ Where I publish my content ✍🏻
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Alexa for CI/CD: Add Alexa Skill to Alexa for Business - Part 4](https://dev.to/aws-builders/alexa-for-cicd-add-alexa-skill-to-alexa-for-business-part-4-472i)
 - [Alexa for CI/CD: Putting it all together - Part 3](https://dev.to/aws-builders/alexa-for-cicd-putting-it-all-together-part-3-do6)
 - [Alexa for CI/CD: Introduction to Amazon Alexa and Alexa Skills - Part 2](https://dev.to/aws-builders/alexa-for-bitrise-cicd-introduction-to-amazon-alexa-and-alexa-skills-part-2-3ob0)
 - [Alexa for CI/CD: Introduction to serverless with AWS Lambda and Bitrise API - Part 1](https://dev.to/aws-builders/alexa-for-cicd-introduction-to-serverless-with-aws-lambda-and-bitrise-api-part-1-11ol)
@@ -36,7 +37,6 @@ Where I publish my content ✍🏻
 - [What should every newcomer know about Bitrise?](https://dev.to/moataznabil/what-should-every-newcomer-know-about-bitrise-4c42)
 - [Getting started with AWS Device Farm and Selenium WebDriver](https://dev.to/aws-builders/getting-started-with-aws-device-farm-and-selenium-webdriver-2nmb)
 - [Why Software Test Engineers should know about Cloud Computing?](https://dev.to/aws-builders/why-software-test-engineers-should-know-about-cloud-computing-1d0n)
-- [📱NEW COURSE ALERT📱](https://moataznabil.blog/2020/09/28/%f0%9f%93%b1new-course-alert%f0%9f%93%b1/)
 <!-- BLOG-POST-LIST:END -->
 
 
