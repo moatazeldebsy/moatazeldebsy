@@ -17,7 +17,7 @@ Where I publish my content ✍🏻
 - [Youtube Channel](https://www.youtube.com/c/MoatazNabil01) with Arabic videos about test automation and AWS
 - [Personal Blog](https://moataznabil.blog/) Where I publish series of videos, talks and articles.
 - [Bitrise Blog](https://blog.bitrise.io/author/moataz-nabil) The Offical Bitrise blog
-- [Test Automation University](https://testautomationu.applitools.com/) - My free online courses
+- [Test Automation University](https://testautomationu.applitools.com/instructors/moataz_nabil.html) - My free online courses
 - [Applitools](https://applitools.com/blog/author/moataznabil/) The Official Applitools blog 
 - [Medium](http://moatazeldebsy.medium.com/)
 - [Dev.to](https://dev.to/moataznabil)
