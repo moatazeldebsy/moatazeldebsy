@@ -2,9 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/moatazeldebsy?label=Follow&style=social)](https://github.com/moatazeldebsy)
 
-![Welcome to the official GitHub profile of @moatazeldebsy](https://user-images.githubusercontent.com/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)
  
-
 I am Moataz Nabil, a [Developer Advocate](https://blog.bitrise.io/post/a-day-in-the-life-of-a-developer-advocate-at-bitrise) 🥑 at [Bitrise](http://www.bitrise.io), helping mobile engineers to deliver fast, reliable, and secure mobile apps and helping companies to build their own developer productivity teams. Bitrise Expert, [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/), and Instructor on [TestAutomationU](https://testautomationu.applitools.com/) and [Udemy](https://www.udemy.com/course/selenium-webdriver-from-foundation-to-framework-in-arabic/?referralCode=070F61E78CBA6A4AD2D3).
 
 I have over 13 years of experience in software development, test automation, developer productivity, software testing, and service delivery. I am passionate about creating technological solutions that close the loop between software development and service delivery. 
