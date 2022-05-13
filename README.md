@@ -15,7 +15,6 @@ Where I publish my content ✍🏻
 - [Applitools](https://applitools.com/blog/author/moataznabil/) The Official Applitools blog 
 - [Medium](http://moatazeldebsy.medium.com/)
 - [Dev.to](https://dev.to/moataznabil)
-- [HackerNoon](https://hackernoon.com/u/moataznabil)
 - [Twitter](https://twitter.com/Moatazeldebsy)
 - [LinkedIn](https://www.linkedin.com/in/moataz-nabil/)
 
