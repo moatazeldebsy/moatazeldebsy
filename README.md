@@ -21,6 +21,7 @@ Where I publish my content ✍🏻
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mobile DevOps Summit on November 10th. Call For Speakers is now open!](https://dev.to/moataznabil/mobile-devops-summit-on-november-10th-call-for-speakers-is-now-open-2ged)
 - [Alexa for CI/CD: Add Alexa Skill to Alexa for Business - Part 4](https://dev.to/aws-builders/alexa-for-cicd-add-alexa-skill-to-alexa-for-business-part-4-472i)
 - [Alexa for CI/CD: Putting it all together - Part 3](https://dev.to/aws-builders/alexa-for-cicd-putting-it-all-together-part-3-do6)
 - [Alexa for CI/CD: Introduction to Amazon Alexa and Alexa Skills - Part 2](https://dev.to/aws-builders/alexa-for-bitrise-cicd-introduction-to-amazon-alexa-and-alexa-skills-part-2-3ob0)
@@ -30,7 +31,6 @@ Where I publish my content ✍🏻
 - [2020 – Year in Review](https://moataznabil.blog/2020/12/24/2020-year-in-review/)
 - [What should every newcomer know about Bitrise?](https://dev.to/moataznabil/what-should-every-newcomer-know-about-bitrise-4c42)
 - [Getting started with AWS Device Farm and Selenium WebDriver](https://dev.to/aws-builders/getting-started-with-aws-device-farm-and-selenium-webdriver-2nmb)
-- [Why Software Test Engineers should know about Cloud Computing?](https://dev.to/aws-builders/why-software-test-engineers-should-know-about-cloud-computing-1d0n)
 <!-- BLOG-POST-LIST:END -->
 
 
