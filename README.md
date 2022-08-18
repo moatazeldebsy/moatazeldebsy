@@ -26,11 +26,11 @@ Where I publish my content ✍🏻
 - [Alexa for CI/CD: Putting it all together - Part 3](https://dev.to/aws-builders/alexa-for-cicd-putting-it-all-together-part-3-do6)
 - [Alexa for CI/CD: Introduction to Amazon Alexa and Alexa Skills - Part 2](https://dev.to/aws-builders/alexa-for-bitrise-cicd-introduction-to-amazon-alexa-and-alexa-skills-part-2-3ob0)
 - [Alexa for CI/CD: Introduction to serverless with AWS Lambda and Bitrise API - Part 1](https://dev.to/aws-builders/alexa-for-cicd-introduction-to-serverless-with-aws-lambda-and-bitrise-api-part-1-11ol)
+- [2021, Year in Review](https://moataznabil.blog/2021/12/19/2021-year-in-review/)
 - [Hacktoberfest 2021 at Bitrise: Join us and win awesome swag!](https://dev.to/moataznabil/hacktoberfest-2021-at-bitrise-join-us-and-win-awesome-swag-5ll)
+- [2020 – Year in Review](https://moataznabil.blog/2020/12/24/2020-year-in-review/)
 - [What should every newcomer know about Bitrise?](https://dev.to/moataznabil/what-should-every-newcomer-know-about-bitrise-4c42)
 - [Getting started with AWS Device Farm and Selenium WebDriver](https://dev.to/aws-builders/getting-started-with-aws-device-farm-and-selenium-webdriver-2nmb)
-- [Why Software Test Engineers should know about Cloud Computing?](https://dev.to/aws-builders/why-software-test-engineers-should-know-about-cloud-computing-1d0n)
-- [Your REAL beginning with Selenium Webdriver and Test Automation in [Arabic]](https://moatazeldebsy.medium.com/your-real-beginning-with-selenium-webdriver-and-test-automation-in-arabic-6754a23c4c4e?source=rss-22507dab7991------2)
 <!-- BLOG-POST-LIST:END -->
 
 
