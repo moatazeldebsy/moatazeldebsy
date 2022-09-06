@@ -21,6 +21,7 @@ Where I publish my content ✍🏻
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create your e-commerce website for test automation using Amazon Lightsail and PrestaShop](https://dev.to/aws-builders/create-your-ecommerce-website-for-test-automation-using-amazon-lightsail-and-prestashop-17pg)
 - [Run your security static analysis tests for Android apps on the cloud with MobSF and AWS](https://dev.to/aws-builders/run-your-security-static-analysis-tests-for-android-apps-on-the-cloud-with-mobsf-and-aws-4cam)
 - [Mobile DevOps Summit on November 10th. Call For Speakers is now open!](https://dev.to/moataznabil/mobile-devops-summit-on-november-10th-call-for-speakers-is-now-open-2ged)
 - [Alexa for CI/CD: Add Alexa Skill to Alexa for Business - Part 4](https://dev.to/aws-builders/alexa-for-cicd-add-alexa-skill-to-alexa-for-business-part-4-472i)
@@ -30,7 +31,6 @@ Where I publish my content ✍🏻
 - [2021, Year in Review](https://moataznabil.blog/2021/12/19/2021-year-in-review/)
 - [Hacktoberfest 2021 at Bitrise: Join us and win awesome swag!](https://dev.to/moataznabil/hacktoberfest-2021-at-bitrise-join-us-and-win-awesome-swag-5ll)
 - [2020 – Year in Review](https://moataznabil.blog/2020/12/24/2020-year-in-review/)
-- [What should every newcomer know about Bitrise?](https://dev.to/moataznabil/what-should-every-newcomer-know-about-bitrise-4c42)
 <!-- BLOG-POST-LIST:END -->
 
 
