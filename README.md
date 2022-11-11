@@ -4,6 +4,9 @@
 
  
 I am Moataz Nabil, a [Developer Advocate](https://blog.bitrise.io/post/a-day-in-the-life-of-a-developer-advocate-at-bitrise) 🥑 at [Bitrise](http://www.bitrise.io), previously [Delivery Hero SE](https://www.deliveryhero.com/) and [Zalando SE](https://www.zalando.de/) helping mobile engineers to deliver fast, reliable, and secure mobile apps and helping companies to build their own developer productivity teams. Bitrise Expert, [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=moataz&cb-cards.q_operator=AND), and Instructor on [TestAutomationU](https://testautomationu.applitools.com/instructors/moataz_nabil.html) and [Udemy](https://www.udemy.com/course/selenium-webdriver-from-foundation-to-framework-in-arabic/?referralCode=070F61E78CBA6A4AD2D3).
+	
+I'm also mentoring and helping people on [the Mentoring Club](https://www.mentoring-club.com/the-mentors/moataz-nabil)
+
 
 I have over 13 years of experience in software development, test automation, developer productivity, software testing, and service delivery. I am passionate about creating technological solutions that close the loop between software development and service delivery. 
 
