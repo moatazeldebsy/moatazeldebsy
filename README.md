@@ -24,16 +24,16 @@ Where I publish my content ✍🏻
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create your e-commerce website for test automation using Amazon Lightsail and PrestaShop](https://dev.to/aws-builders/create-your-ecommerce-website-for-test-automation-using-amazon-lightsail-and-prestashop-17pg)
+- [Run your security static analysis tests for Android apps on the cloud with MobSF and AWS](https://dev.to/aws-builders/run-your-security-static-analysis-tests-for-android-apps-on-the-cloud-with-mobsf-and-aws-4cam)
+- [Mobile DevOps Summit on November 10th. Call For Speakers is now open!](https://dev.to/moataznabil/mobile-devops-summit-on-november-10th-call-for-speakers-is-now-open-2ged)
+- [Alexa for CI/CD: Add Alexa Skill to Alexa for Business - Part 4](https://dev.to/aws-builders/alexa-for-cicd-add-alexa-skill-to-alexa-for-business-part-4-472i)
+- [Alexa for CI/CD: Putting it all together - Part 3](https://dev.to/aws-builders/alexa-for-cicd-putting-it-all-together-part-3-do6)
+- [Alexa for CI/CD: Introduction to Amazon Alexa and Alexa Skills - Part 2](https://dev.to/aws-builders/alexa-for-bitrise-cicd-introduction-to-amazon-alexa-and-alexa-skills-part-2-3ob0)
+- [Alexa for CI/CD: Introduction to serverless with AWS Lambda and Bitrise API - Part 1](https://dev.to/aws-builders/alexa-for-cicd-introduction-to-serverless-with-aws-lambda-and-bitrise-api-part-1-11ol)
 - [2021, Year in Review](https://moataznabil.blog/2021/12/19/2021-year-in-review/)
+- [Hacktoberfest 2021 at Bitrise: Join us and win awesome swag!](https://dev.to/moataznabil/hacktoberfest-2021-at-bitrise-join-us-and-win-awesome-swag-5ll)
 - [2020 – Year in Review](https://moataznabil.blog/2020/12/24/2020-year-in-review/)
-- [📱NEW COURSE ALERT📱](https://moataznabil.blog/2020/09/28/%f0%9f%93%b1new-course-alert%f0%9f%93%b1/)
-- [I will give a talk at AWS Community MENA Day](https://moataznabil.blog/2020/09/13/i-will-give-a-talk-at-aws-community-mena-day/)
-- [I will give a talk at Techila Con Online](https://moataznabil.blog/2020/06/04/i-will-give-a-talk-at-techila-con-online/)
-- [I will be on stage at SauceConf 2020](https://moataznabil.blog/2020/01/13/i-will-be-on-stage-at-sauceconf-2020/)
-- [2019 – Year in Review](https://moataznabil.blog/2019/12/29/2019-year-in-review/)
-- [My New Arabic Course in Test Automation has been published on AlMentor Platform](https://moataznabil.blog/2019/12/18/my-new-arabic-course-in-test-automation-has-been-published-on-almentor-platform/)
-- [l will be on stage at Swiss Testing Day 2020](https://moataznabil.blog/2019/12/17/ill-be-on-stage-at-swiss-testing-day-2020/)
-- [GDG DevFest Berlin – Continuous Testing and Mobile DevOps](https://moataznabil.blog/2019/11/13/gdg-devfest-berlin-continuous-testing-and-mobile-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 
