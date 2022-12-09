@@ -24,6 +24,7 @@ Where I publish my content ✍🏻
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Maestro: The new mobile UI testing framework from Mobile.dev](https://dev.to/moataznabil/getting-started-with-maestro-the-new-mobile-ui-testing-framework-from-mobiledev-2n0k)
 - [Create your e-commerce website for test automation using Amazon Lightsail and PrestaShop](https://dev.to/aws-builders/create-your-ecommerce-website-for-test-automation-using-amazon-lightsail-and-prestashop-17pg)
 - [Run your security static analysis tests for Android apps on the cloud with MobSF and AWS](https://dev.to/aws-builders/run-your-security-static-analysis-tests-for-android-apps-on-the-cloud-with-mobsf-and-aws-4cam)
 - [Mobile DevOps Summit on November 10th. Call For Speakers is now open!](https://dev.to/moataznabil/mobile-devops-summit-on-november-10th-call-for-speakers-is-now-open-2ged)
@@ -33,7 +34,6 @@ Where I publish my content ✍🏻
 - [Alexa for CI/CD: Introduction to serverless with AWS Lambda and Bitrise API - Part 1](https://dev.to/aws-builders/alexa-for-cicd-introduction-to-serverless-with-aws-lambda-and-bitrise-api-part-1-11ol)
 - [2021, Year in Review](https://moataznabil.blog/2021/12/19/2021-year-in-review/)
 - [Hacktoberfest 2021 at Bitrise: Join us and win awesome swag!](https://dev.to/moataznabil/hacktoberfest-2021-at-bitrise-join-us-and-win-awesome-swag-5ll)
-- [2020 – Year in Review](https://moataznabil.blog/2020/12/24/2020-year-in-review/)
 <!-- BLOG-POST-LIST:END -->
 
 
