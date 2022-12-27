@@ -24,6 +24,7 @@ Where I publish my content ✍🏻
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Most Beneficial AWS Services for QA Engineers](https://dev.to/aws-builders/the-most-beneficial-aws-services-for-qa-engineers-40f7)
 - [Getting started with Appium 2.0: Your beginner’s guide](https://dev.to/moataznabil/getting-started-with-appium-20-your-beginners-guide-3m32)
 - [Getting started with Maestro: The new mobile UI testing framework from Mobile.dev](https://dev.to/moataznabil/getting-started-with-maestro-the-new-mobile-ui-testing-framework-from-mobiledev-2n0k)
 - [Create your e-commerce website for test automation using Amazon Lightsail and PrestaShop](https://dev.to/aws-builders/create-your-ecommerce-website-for-test-automation-using-amazon-lightsail-and-prestashop-17pg)
@@ -33,7 +34,6 @@ Where I publish my content ✍🏻
 - [Alexa for CI/CD: Putting it all together - Part 3](https://dev.to/aws-builders/alexa-for-cicd-putting-it-all-together-part-3-do6)
 - [Alexa for CI/CD: Introduction to Amazon Alexa and Alexa Skills - Part 2](https://dev.to/aws-builders/alexa-for-bitrise-cicd-introduction-to-amazon-alexa-and-alexa-skills-part-2-3ob0)
 - [Alexa for CI/CD: Introduction to serverless with AWS Lambda and Bitrise API - Part 1](https://dev.to/aws-builders/alexa-for-cicd-introduction-to-serverless-with-aws-lambda-and-bitrise-api-part-1-11ol)
-- [2021, Year in Review](https://moataznabil.blog/2021/12/19/2021-year-in-review/)
 <!-- BLOG-POST-LIST:END -->
 
 
