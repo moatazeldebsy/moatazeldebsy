@@ -24,6 +24,9 @@ Where I publish my content ✍🏻
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling my first book “Mobile DevOps Playbook”: Your Handbook for Faster, High-Quality Mobile App…](https://moatazeldebsy.medium.com/unveiling-my-first-book-mobile-devops-playbook-your-handbook-for-faster-high-quality-mobile-app-19affc21ebfa?source=rss-22507dab7991------2)
+- [Unveiling my first book “Mobile DevOps Playbook” – Your Handbook for Faster, High-Quality Mobile App 📱🚀](https://moataznabil.blog/2023/04/27/unveiling-my-first-book-mobile-devops-playbook-your-handbook-for-faster-high-quality-mobile-app-%f0%9f%93%b1%f0%9f%9a%80/)
+- [Unveiling my first book &quot;Mobile DevOps Playbook&quot;: Your Handbook for Faster, High-Quality Mobile App 📱🚀](https://dev.to/moataznabil/unveiling-my-first-book-mobile-devops-playbook-your-handbook-for-faster-high-quality-mobile-app-28m3)
 - [2022, Year in Review 🙌🏻](https://moataznabil.blog/2022/12/28/2022-year-in-review-%f0%9f%99%8c%f0%9f%8f%bb/)
 - [The Most Beneficial AWS Services for QA Engineers](https://dev.to/aws-builders/the-most-beneficial-aws-services-for-qa-engineers-40f7)
 - [Getting started with Appium 2.0: Your beginner’s guide](https://dev.to/moataznabil/getting-started-with-appium-20-your-beginners-guide-3m32)
@@ -31,9 +34,6 @@ Where I publish my content ✍🏻
 - [Create your e-commerce website for test automation using Amazon Lightsail and PrestaShop](https://dev.to/aws-builders/create-your-ecommerce-website-for-test-automation-using-amazon-lightsail-and-prestashop-17pg)
 - [Run your security static analysis tests for Android apps on the cloud with MobSF and AWS](https://dev.to/aws-builders/run-your-security-static-analysis-tests-for-android-apps-on-the-cloud-with-mobsf-and-aws-4cam)
 - [Mobile DevOps Summit on November 10th. Call For Speakers is now open!](https://dev.to/moataznabil/mobile-devops-summit-on-november-10th-call-for-speakers-is-now-open-2ged)
-- [Alexa for CI/CD: Add Alexa Skill to Alexa for Business - Part 4](https://dev.to/aws-builders/alexa-for-cicd-add-alexa-skill-to-alexa-for-business-part-4-472i)
-- [Alexa for CI/CD: Putting it all together - Part 3](https://dev.to/aws-builders/alexa-for-cicd-putting-it-all-together-part-3-do6)
-- [Alexa for CI/CD: Introduction to Amazon Alexa and Alexa Skills - Part 2](https://dev.to/aws-builders/alexa-for-bitrise-cicd-introduction-to-amazon-alexa-and-alexa-skills-part-2-3ob0)
 <!-- BLOG-POST-LIST:END -->
 
 
