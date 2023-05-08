@@ -24,7 +24,6 @@ Where I publish my content ✍🏻
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mobile DevOps Playbook](https://dzone.com/articles/discover-the-mobile-devops-playbook-accelerate-mob)
 - [Unveiling my first book “Mobile DevOps Playbook”: Your Handbook for Faster, High-Quality Mobile App…](https://moatazeldebsy.medium.com/unveiling-my-first-book-mobile-devops-playbook-your-handbook-for-faster-high-quality-mobile-app-19affc21ebfa?source=rss-22507dab7991------2)
 - [Unveiling my first book “Mobile DevOps Playbook” – Your Handbook for Faster, High-Quality Mobile App 📱🚀](https://moataznabil.blog/2023/04/27/unveiling-my-first-book-mobile-devops-playbook-your-handbook-for-faster-high-quality-mobile-app-%f0%9f%93%b1%f0%9f%9a%80/)
 - [Unveiling my first book &quot;Mobile DevOps Playbook&quot;: Your Handbook for Faster, High-Quality Mobile App 📱🚀](https://dev.to/moataznabil/unveiling-my-first-book-mobile-devops-playbook-your-handbook-for-faster-high-quality-mobile-app-28m3)
