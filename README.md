@@ -24,6 +24,7 @@ Where I publish my content ✍🏻
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Elevating Code Quality: The Power of Static Code Analysis in Modern Software Development](https://medium.com/aviv-product-tech-blog/elevating-code-quality-the-power-of-static-code-analysis-in-modern-software-development-e0316e303afb?source=rss-22507dab7991------2)
 - [The key responsibilities of a Software Quality Manager: ensuring high-quality software development](https://dev.to/moataznabil/the-key-responsibilities-of-a-software-quality-manager-ensuring-high-quality-software-development-3a9f)
 - [Cloud Test Automation on AWS: The Role of QA Engineers](https://dev.to/aws-builders/cloud-test-automation-on-aws-the-role-of-qa-engineers-4j23)
 - [Unveiling my first book “Mobile DevOps Playbook”: Your Handbook for Faster, High-Quality Mobile App…](https://moatazeldebsy.medium.com/unveiling-my-first-book-mobile-devops-playbook-your-handbook-for-faster-high-quality-mobile-app-19affc21ebfa?source=rss-22507dab7991------2)
@@ -33,7 +34,6 @@ Where I publish my content ✍🏻
 - [The Most Beneficial AWS Services for QA Engineers](https://dev.to/aws-builders/the-most-beneficial-aws-services-for-qa-engineers-40f7)
 - [Getting started with Appium 2.0: Your beginner’s guide](https://dev.to/moataznabil/getting-started-with-appium-20-your-beginners-guide-3m32)
 - [Getting started with Maestro: The new mobile UI testing framework from Mobile.dev](https://dev.to/moataznabil/getting-started-with-maestro-the-new-mobile-ui-testing-framework-from-mobiledev-2n0k)
-- [Create your e-commerce website for test automation using Amazon Lightsail and PrestaShop](https://dev.to/aws-builders/create-your-ecommerce-website-for-test-automation-using-amazon-lightsail-and-prestashop-17pg)
 <!-- BLOG-POST-LIST:END -->
 
 
