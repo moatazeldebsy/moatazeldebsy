@@ -18,6 +18,7 @@ Where I publish my content ✍🏻
 - [Applitools](https://applitools.com/blog/author/moataznabil/) The Official Applitools blog 
 - [Medium](http://moatazeldebsy.medium.com/)
 - [Dev.to](https://dev.to/moataznabil)
+- [AWS Community](community.aws/@moataz)
 - [DZone](https://dzone.com/users/3017444/moataznabil.html)
 - [Twitter](https://twitter.com/Moatazeldebsy)
 - [LinkedIn](https://www.linkedin.com/in/moataz-nabil/)
