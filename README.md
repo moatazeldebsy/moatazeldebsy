@@ -25,6 +25,7 @@ Where I publish my content ✍🏻
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Test Automation at Scale: Important Metrics and Calculating ROI](https://moatazeldebsy.medium.com/optimizing-test-automation-at-scale-important-metrics-and-calculating-roi-553c2ff66edb?source=rss-22507dab7991------2)
 - [Elevating Code Quality: The Power of Static Code Analysis in Modern Software Development](https://medium.com/aviv-product-tech-blog/elevating-code-quality-the-power-of-static-code-analysis-in-modern-software-development-e0316e303afb?source=rss-22507dab7991------2)
 - [The key responsibilities of a Software Quality Manager: ensuring high-quality software development](https://dev.to/moataznabil/the-key-responsibilities-of-a-software-quality-manager-ensuring-high-quality-software-development-3a9f)
 - [Cloud Test Automation on AWS: The Role of QA Engineers](https://dev.to/aws-builders/cloud-test-automation-on-aws-the-role-of-qa-engineers-4j23)
@@ -34,7 +35,6 @@ Where I publish my content ✍🏻
 - [2022, Year in Review 🙌🏻](https://moataznabil.blog/2022/12/28/2022-year-in-review-%f0%9f%99%8c%f0%9f%8f%bb/)
 - [The Most Beneficial AWS Services for QA Engineers](https://dev.to/aws-builders/the-most-beneficial-aws-services-for-qa-engineers-40f7)
 - [Getting started with Appium 2.0: Your beginner’s guide](https://dev.to/moataznabil/getting-started-with-appium-20-your-beginners-guide-3m32)
-- [Getting started with Maestro: The new mobile UI testing framework from Mobile.dev](https://dev.to/moataznabil/getting-started-with-maestro-the-new-mobile-ui-testing-framework-from-mobiledev-2n0k)
 <!-- BLOG-POST-LIST:END -->
 
 
