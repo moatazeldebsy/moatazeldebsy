@@ -5,9 +5,6 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=moatazeldebsy_moatazeldebsy&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=moatazeldebsy_moatazeldebsy)
  
 I am Moataz, the book author of [Mobile DevOps Playbook](https://www.amazon.com/Mobile-DevOps-Playbook-accelerating-high-quality/dp/1803242558/ref=sr_1_1?keywords=9781803242552&qid=1680253844&sr=8-1), currently working as a Manager, Quality Engineering - Automation at [Aviv Group_](https://www.aviv-group.com/),  previously worked at [Bitrise](https://bitrise.io/), [Delivery Hero SE](https://www.deliveryhero.com/) and [Zalando SE](https://www.zalando.de/) helping mobile engineers to deliver fast, reliable, and secure mobile apps and helping companies to build their own developer productivity teams. Bitrise Expert, [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=moataz&cb-cards.q_operator=AND), and Instructor on [TestAutomationU](https://testautomationu.applitools.com/instructors/moataz_nabil.html) and [Udemy](https://www.udemy.com/course/selenium-webdriver-from-foundation-to-framework-in-arabic/?referralCode=070F61E78CBA6A4AD2D3).
-	
-I'm also mentoring and helping people on [the Mentoring Club](https://www.mentoring-club.com/the-mentors/moataz-nabil)
-
 
 I have over 13 years of experience in software development, test automation, developer productivity, software testing, and service delivery. I am passionate about creating technological solutions that close the loop between software development and service delivery. 
 
