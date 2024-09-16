@@ -74,3 +74,8 @@ I’m looking forward to collaborating on projects that are at the intersection 
 - [The Most Beneficial AWS Services for QA Engineers](https://dev.to/aws-builders/the-most-beneficial-aws-services-for-qa-engineers-40f7)
 - [Getting started with Appium 2.0: Your beginner’s guide](https://dev.to/moataznabil/getting-started-with-appium-20-your-beginners-guide-3m32)
 <!-- BLOG-POST-LIST:END -->
+
+### Talks at conferences
+Here is a playlist of my talks at various conferences, meetups, and user groups:
+
+https://www.youtube.com/playlist?list=PLTgnULQbEpQDsrNfLGfOTCJ--8ovbmata
