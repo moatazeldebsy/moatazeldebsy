@@ -44,9 +44,10 @@ I have over 13 years of experience in software development, test automation, dev
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
 ## Connect with Me 📬
-**- [Twitter](https://twitter.com/Moatazeldebsy)**
 
-**- [LinkedIn](https://www.linkedin.com/in/moataz-nabil/)**
+- [Twitter](https://twitter.com/Moatazeldebsy)
+- [LinkedIn](https://www.linkedin.com/in/moataz-nabil/)
+
 
 I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
 
