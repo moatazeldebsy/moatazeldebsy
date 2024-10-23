@@ -2,33 +2,6 @@
 
 I have over 14 years of experience in software development, test automation, developer productivity, software testing, and service delivery. I am passionate about creating technological solutions that close the loop between software development and service delivery. 
 
-## Technical Skills 🛠️
-- **Programming Languages:** Java, JavaScript, C#, Typescript, Kotlin, Swift
-- **Cloud and DevOps Technologies:**
-  - Cloud Architecture (AWS)
-  - DevOps and CI/CD (GitHub Actions, CircleCI, Jenkins, GitLab)
-  - Container Technologies (Docker, Kubernetes)
-  - Infrastructure as Code (Terraform)
-  - Monitoring and Observability (Datadog, Grafana)
-- **Software Development and Testing**
-  - Agile Methodologies (Scrum, Kanban)
-  - Databases (Microsoft SQL Server, MariaDB)
-  - Web Testing (Selenium WebDriver, Playwright, TestCafe)
-  - Mobile Testing (Espresso, XCUITest, Maestro, Appium)
-  - API Development and Management: Postman, Rest Assured
-  - Performance Testing: K6
-- **Core Competencies**
-  - Problem Solving and Analytical Skills
-  - Program Management
-    - Strategic Planning
-    - Risk Management
-    - Stakeholder Communication
-    - Cross-Functional Team Leadership
-- **Technical Advocacy**
-  - Developer Experience
-  - Technical Evangelism and Advocacy
-  - Public Speaking and Presentations
-
 ## Key Projects 📚
 - **[The Internet Automation with Playwright and TypeScript](https://github.com/moatazeldebsy/the-internet-automation-playwright-typescript):** This project is designed to automate the testing of various web functionalities using Playwright in a TypeScript setup. It targets a demo website called The Internet for practicing automation testing.
 - **[Mobile DevOps Playbook](https://github.com/moatazeldebsy/Mobile-DevOps-Playbook):** This is the code repository for Mobile DevOps Playbook, published by Packt.
