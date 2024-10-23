@@ -12,10 +12,6 @@ I have over 14 years of experience in software development, test automation, dev
 - **[Appium-TAU](https://github.com/moatazeldebsy/Appium-TAU):** This repo contains the course material for the Test Automation University Course Mobile Testing using Appium and Java.
 - **[sauce-labs-app-automate-action](https://github.com/moatazeldebsy/sauce-labs-app-automate-action):** A GitHub Action for running Espresso Tests for Android using Sauce Labs Runner
 
-## Professional Goals 🚀
-- **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
-- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
-
 ## Connect with Me 📬
 
 - [Twitter](https://twitter.com/Moatazeldebsy)
