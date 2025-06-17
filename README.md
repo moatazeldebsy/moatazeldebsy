@@ -2,6 +2,26 @@
 
 I have over 14 years of experience in software development, test automation, developer productivity, software testing, and service delivery. I am passionate about creating technological solutions that close the loop between software development and service delivery. 
 
+## Certifications
+
+<a href="https://www.credly.com/badges/9776fecc-4ed3-490e-8e79-6609c0e61ed5" rel="nofollow">
+<img src="images/cnpa.png" alt="CNPA" width="100" height="100" style="max-width: 100%;">
+</a>
+
+<a href="https://www.credly.com/badges/e029efb8-df4b-491d-a5de-bc0bf8190abc" rel="nofollow">
+<img src="images/cba.png" alt="CBA" width="100" height="100" style="max-width: 100%;">
+</a>
+
+<a href="https://www.credly.com/badges/f70be083-1071-4ac9-b1f8-430faadbff4d" rel="nofollow">
+<img src="images/aws.png" alt="CBA" width="100" height="100" style="max-width: 100%;">
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/20dce440-2514-4a65-8a49-179c79b117b0
+" rel="nofollow">
+<img src="images/copilot.png" alt="Copilot" width="100" height="100" style="max-width: 100%;">
+</a>
+
+
 ## Key Projects 📚
 - **[The Internet Automation with Playwright and TypeScript](https://github.com/moatazeldebsy/the-internet-automation-playwright-typescript):** This project is designed to automate the testing of various web functionalities using Playwright in a TypeScript setup. It targets a demo website called The Internet for practicing automation testing.
 - **[Mobile DevOps Playbook](https://github.com/moatazeldebsy/Mobile-DevOps-Playbook):** This is the code repository for Mobile DevOps Playbook, published by Packt.
