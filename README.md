@@ -12,12 +12,12 @@ I have over 14 years of experience in software development, test automation, dev
 <img src="images/cba.png" alt="CBA" width="100" height="100">
 </a>
 
-<a href="https://www.credly.com/badges/f70be083-1071-4ac9-b1f8-430faadbff4d">
-<img src="images/aws.png" alt="CBA" width="100" height="100">
-</a>
-
 <a href="https://www.credly.com/earner/earned/badge/20dce440-2514-4a65-8a49-179c79b117b0">
 <img src="images/copilot.png" alt="Copilot" width="100" height="100">
+</a>
+
+<a href="https://www.credly.com/badges/f70be083-1071-4ac9-b1f8-430faadbff4d">
+<img src="images/aws.png" alt="aws" width="100" height="100">
 </a>
 
 
