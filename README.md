@@ -4,15 +4,15 @@ I have over 14 years of experience in software development, test automation, dev
 
 ## Certifications
 
-<a href="https://www.credly.com/badges/9776fecc-4ed3-490e-8e79-6609c0e61ed5" rel="nofollow">
+<a href="https://www.credly.com/badges/9776fecc-4ed3-490e-8e79-6609c0e61ed5">
 <img src="images/cnpa.png" alt="CNPA" width="100" height="100" style="max-width: 100%;">
 </a>
 
-<a href="https://www.credly.com/badges/e029efb8-df4b-491d-a5de-bc0bf8190abc" rel="nofollow">
-<img src="images/cba.png" alt="CBA" width="100" height="100" style="max-width: 100%;">
+<a href="https://www.credly.com/badges/e029efb8-df4b-491d-a5de-bc0bf8190abc">
+<img src="images/cba.png" alt="CBA" width="100" height="100">
 </a>
 
-<a href="https://www.credly.com/badges/f70be083-1071-4ac9-b1f8-430faadbff4d" rel="nofollow">
+<a href="https://www.credly.com/badges/f70be083-1071-4ac9-b1f8-430faadbff4d">
 <img src="images/aws.png" alt="CBA" width="100" height="100" style="max-width: 100%;">
 </a>
 
