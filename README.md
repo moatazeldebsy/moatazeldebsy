@@ -65,7 +65,7 @@ I’m looking forward to collaborating on projects that are at the intersection 
 - [Unveiling my first book “Mobile DevOps Playbook”: Your Handbook for Faster, High-Quality Mobile App…](https://moatazeldebsy.medium.com/unveiling-my-first-book-mobile-devops-playbook-your-handbook-for-faster-high-quality-mobile-app-19affc21ebfa?source=rss-22507dab7991------2)
 - [Unveiling my first book “Mobile DevOps Playbook” – Your Handbook for Faster, High-Quality Mobile App 📱🚀](https://moataznabil.blog/2023/04/27/unveiling-my-first-book-mobile-devops-playbook-your-handbook-for-faster-high-quality-mobile-app-%f0%9f%93%b1%f0%9f%9a%80/)
 - [Unveiling my first book &quot;Mobile DevOps Playbook&quot;: Your Handbook for Faster, High-Quality Mobile App 📱🚀](https://dev.to/moataznabil/unveiling-my-first-book-mobile-devops-playbook-your-handbook-for-faster-high-quality-mobile-app-28m3)
-- [2022, Year in Review 🙌🏻](https://moataznabil.blog/2022/12/28/2022-year-in-review-%f0%9f%99%8c%f0%9f%8f%bb/)
+- [2022, Year in Review 🙌🏻](https://moataznabil.blog/2022/12/28/2022-year-in-review-%f0%9f%99%8c%f0%9f%8f%bb/)
 - [The Most Beneficial AWS Services for QA Engineers](https://dev.to/aws-builders/the-most-beneficial-aws-services-for-qa-engineers-40f7)
 <!-- BLOG-POST-LIST:END -->
 
