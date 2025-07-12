@@ -6,7 +6,6 @@ I’m driven by the belief that great platforms empower great engineers—and th
 
 ## Certifications
 
-
 <a href="[https://www.credly.com/badges/9776fecc-4ed3-490e-8e79-6609c0e61ed](https://www.credly.com/badges/137ed25f-9eb7-4804-8cf3-e55a67ad21f6/public_url)5">
 <img src="images/kcna.png" alt="KCNA" width="100" height="100">
 </a>
@@ -15,11 +14,9 @@ I’m driven by the belief that great platforms empower great engineers—and th
 <img src="images/cnpa.png" alt="CNPA" width="100" height="100">
 </a>
 
-
 <a href="https://www.credly.com/badges/e029efb8-df4b-491d-a5de-bc0bf8190abc">
 <img src="images/cba.png" alt="CBA" width="100" height="100">
 </a>
-
 
 <a href="https://www.credly.com/badges/20dce440-2514-4a65-8a49-179c79b117b0/public_url">
 <img src="images/copilot.png" alt="Copilot" width="100" height="100">
