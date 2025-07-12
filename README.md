@@ -8,7 +8,7 @@ I’m driven by the belief that great platforms empower great engineers—and th
 
 
 <a href="[https://www.credly.com/badges/9776fecc-4ed3-490e-8e79-6609c0e61ed](https://www.credly.com/badges/137ed25f-9eb7-4804-8cf3-e55a67ad21f6/public_url)5">
-<img src="images/cnpa.png" alt="KCNA" width="100" height="100">
+<img src="images/kcna.png" alt="KCNA" width="100" height="100">
 </a>
 
 <a href="https://www.credly.com/badges/9776fecc-4ed3-490e-8e79-6609c0e61ed5">
