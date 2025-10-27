@@ -23,6 +23,9 @@ I’m driven by the belief that great platforms empower great engineers—and th
 <img src="images/aws.png" alt="aws" width="100" height="100">
 </a>
 
+</a> <a href="https://verify.skilljar.com/c/3knsj5s24xah">
+<img src="images/finops-foundation.png" alt="finops" width="100" height="100">
+</a>
 
 ## Key Projects 📚
 - **[The Internet Automation with Playwright and TypeScript](https://github.com/moatazeldebsy/the-internet-automation-playwright-typescript):** This project is designed to automate the testing of various web functionalities using Playwright in a TypeScript setup. It targets a demo website called The Internet for practicing automation testing.
