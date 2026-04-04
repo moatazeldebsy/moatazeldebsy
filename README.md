@@ -6,6 +6,11 @@ I’m driven by the belief that great platforms empower great engineers—and th
 
 ## Certifications
 
+<a href="https://www.credly.com/badges/7115900f-92fb-4d98-a6dd-dcc1f7d0dc8e/public_url">
+<img src="images/datadog.png" alt="datadog" width="100" height="100">
+</a>  
+
+
 <a href="https://www.credly.com/badges/1ccb1498-451d-4964-86e0-41928fcc0df5/public_url">
 <img src="images/gitops.png" alt="gitops" width="100" height="100">
 </a>  
