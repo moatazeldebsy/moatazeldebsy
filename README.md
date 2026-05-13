@@ -33,6 +33,7 @@ I’m driven by the belief that great platforms empower great engineers—and th
 </a>
 
 ## Key Projects 📚
+- **[backstage-idp-starter](https://github.com/moatazeldebsy/backstage-platform-starter):** A production-ready Internal Developer Platform template — Backstage, golden-path Helm chart, AI/ML platform, Prometheus/Grafana, AWS EKS via Terraform. Runs locally on Kind in minutes.
 - **[The Internet Automation with Playwright and TypeScript](https://github.com/moatazeldebsy/the-internet-automation-playwright-typescript):** This project is designed to automate the testing of various web functionalities using Playwright in a TypeScript setup. It targets a demo website called The Internet for practicing automation testing.
 - **[Mobile DevOps Playbook](https://github.com/moatazeldebsy/Mobile-DevOps-Playbook):** This is the code repository for Mobile DevOps Playbook, published by Packt.
 - **[Appium-Server-GitHub-Action](https://github.com/moatazeldebsy/Appium-Server-GitHub-Action):** Running Appium Server with GitHub Action to be able to run Appium mobile test automation scripts.
