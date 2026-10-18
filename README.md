@@ -2,7 +2,7 @@
 
 **Platform & Quality Engineering Leader.** I build internal developer platforms and quality systems that help engineering teams ship quickly without breaking things.
 
-**Open to:** Head of / Staff-level roles in Platform Engineering, Developer Experience, or Quality Engineering.
+**Open to:** Head of, Senior Engineering Manager, Engineering Manager, or Staff-level roles in Platform Engineering, Developer Experience, or Quality Engineering · Berlin or remote
 
 📬 [LinkedIn](https://www.linkedin.com/in/moataz-nabil/) · [Blog](https://moataznabil.blog/) · [Twitter / X](https://twitter.com/Moatazeldebsy)
 
