@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 10
-          feed_list: "https://dev.to/feed/moataznabil,https://moataznabil.blog/feed/,https://medium.com/feed/@moatazeldebsy"
+          feed_list: "https://dev.to/feed/moataznabil,https://medium.com/feed/@moatazeldebsy"
