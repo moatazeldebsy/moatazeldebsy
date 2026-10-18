@@ -17,12 +17,14 @@
 
 ### Platform Engineering & Developer Experience
 
+- **[100 Days of Platform Engineering & DevEx](https://moataznabil.blog/100-days/platform)**: a free curriculum I wrote, with 100 hands-on lessons in 10 phases covering the operating model, golden paths, and the core capabilities of a developer platform.
 - **[backstage-platform-template](https://github.com/moatazeldebsy/backstage-platform-template)**: an open-source IDP you can get running with a single `git clone`. It includes Backstage, ArgoCD, Crossplane, EKS, 60 golden-path templates, and AI agents over MCP.
 - **[Mobile-DevOps-Playbook](https://github.com/moatazeldebsy/Mobile-DevOps-Playbook)**: companion code for my Packt book.
 - **[Appium-Server-GitHub-Action](https://github.com/moatazeldebsy/Appium-Server-GitHub-Action)** (★50+): runs an Appium server inside GitHub Actions for mobile CI.
 
 ### Quality Engineering & AI
 
+- **[100 Days of Quality Engineering & Test Automation](https://moataznabil.blog/100-days/qa)**: a free curriculum I wrote, going from QA foundations to quality leadership. It covers test strategy, UI and API automation, contract, mobile, performance, security and accessibility testing, and AI in testing.
 - **[copilot-testing-workshop](https://github.com/moatazeldebsy/copilot-testing-workshop)**: GenAI in Testing, a workshop on using GitHub Copilot to speed up quality work without losing trust (WeAreDevelopers Berlin 2026).
 - **[qa-engineering-deep-dive](https://github.com/moatazeldebsy/qa-engineering-deep-dive)**: QA Engineering in the AI Era, with 8 modules and 8 runnable labs covering Playwright, k6, promptfoo LLM evals, quality gates, and metrics.
 - **[test-automation-practices](https://github.com/moatazeldebsy/test-automation-practices)** (★45): a practice platform with real-world test automation scenarios.
