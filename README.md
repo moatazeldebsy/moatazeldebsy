@@ -1,4 +1,4 @@
-# Hi, I'm Moataz Nabil
+# Hi, I'm Moataz
 
 **Platform & Quality Engineering Leader.** I build internal developer platforms and quality systems that help engineering teams ship quickly without breaking things.
 
